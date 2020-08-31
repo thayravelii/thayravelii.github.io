@@ -1,0 +1,65 @@
+   
+   body {
+     margin: 0;
+     padding: 0;
+        background-color: whitesmoke;
+   }
+  
+
+   h2,h3{
+         font-family: cursive;
+         text-align: center;
+    
+   }
+   
+   #principal {
+        width: 70px;
+        position: absolute;
+        top: 3px;
+        left: 475px;
+   }
+   table, td{
+        width: 900px;
+        margin: 2rem;
+       border: 2px solid white;
+       border-collapse: collapse;
+       border-radius: 10px;
+       padding-right: 3em 1em;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       font-size: 14px;
+       background-color: gray;
+       text-align: center;
+       
+
+
+}
+
+tr, td:hover{
+    background-color: #222;
+    color: white
+  }
+
+  button {
+     border: 1px solid white;
+     border-radius: 5px;
+     padding: 8px;
+     background-color: gray;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: white;
+     cursor: pointer;
+     position: absolute;
+     top: 5px;
+     left: 5px;
+
+  }
+
+  input {
+       border: 1px solid white;
+       border-radius: 5px;
+       padding: 6px;
+       background-color: white;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       cursor: pointer;
+       
+
+  }
