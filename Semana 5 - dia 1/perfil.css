@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: gray;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}
+
+div {
+  width: 1520px;
+  height: 80px;
+  background-color: whitesmoke;
+}
+#logo {
+  width: 65px;
+  position: absolute;
+  left: 1200px;
+  top: 10px;
+  border-radius: 50px;
+}
+button {
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 6px;
+  background-color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  cursor: pointer;
+}
+
+#perfil {
+  width: 200px;
+  border-radius: 100px;
+  position: absolute;
+  left: 600px;
+  top: 150px;
+}
+
+#user {
+  position: absolute;
+  left: 660px;
+  top: 350px;
+}
+
+#seg {
+  position: absolute;
+  left: 660px;
+  top: 370px;
+}
